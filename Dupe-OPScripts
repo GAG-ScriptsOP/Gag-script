@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/EONRz1Ld/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GAG-ScriptsOP/Gag-script/refs/heads/main/Dupe-OPScripts"))()
 
 local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
 Spawner.Load()
